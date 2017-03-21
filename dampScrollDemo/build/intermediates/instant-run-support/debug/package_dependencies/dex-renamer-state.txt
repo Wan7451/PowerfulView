@@ -1,0 +1,7 @@
+#Thu Mar 09 21:20:29 CST 2017
+base.0=/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_fff3e0fa5ff3af5abeddef5a444106b4bfdde5f5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf15fc506c454403323a6b2a7d6ae71fe1d57a82/classes.dex
+base.1=/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf15fc506c454403323a6b2a7d6ae71fe1d57a82
+file.0=/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_fff3e0fa5ff3af5abeddef5a444106b4bfdde5f5/classes.dex

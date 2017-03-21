@@ -1,0 +1,4 @@
+#Thu Mar 09 21:20:29 CST 2017
+base.0=/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

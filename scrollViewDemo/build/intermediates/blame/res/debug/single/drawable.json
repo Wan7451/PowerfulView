@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wanggang/Desktop/MyApplication/scrollViewDemo/build/intermediates/res/merged/debug/drawable/line.xml",
+        "source": "/Users/wanggang/Desktop/MyApplication/scrollViewDemo/src/main/res/drawable/line.xml"
+    },
+    {
+        "merged": "/Users/wanggang/Desktop/MyApplication/scrollViewDemo/build/intermediates/res/merged/debug/drawable/black_background.xml",
+        "source": "/Users/wanggang/.android/build-cache/37fd85d82a63f109352610678b452878424a3c09/output/res/drawable/black_background.xml"
+    },
+    {
+        "merged": "/Users/wanggang/Desktop/MyApplication/scrollViewDemo/build/intermediates/res/merged/debug/drawable/gray_radius.xml",
+        "source": "/Users/wanggang/.android/build-cache/37fd85d82a63f109352610678b452878424a3c09/output/res/drawable/gray_radius.xml"
+    },
+    {
+        "merged": "/Users/wanggang/Desktop/MyApplication/scrollViewDemo/build/intermediates/res/merged/debug/drawable/white_radius.xml",
+        "source": "/Users/wanggang/.android/build-cache/37fd85d82a63f109352610678b452878424a3c09/output/res/drawable/white_radius.xml"
+    }
+]

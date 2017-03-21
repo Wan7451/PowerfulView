@@ -1,0 +1,7 @@
+#Thu Mar 09 20:55:22 CST 2017
+base.0=/Users/wanggang/Desktop/MyApplication/scrollViewTest/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_933ba6ea1ed456fc99e64bed0d7256a26647222b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/wanggang/Desktop/MyApplication/scrollViewTest/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_381d9622b17484bb9b32ec8d2b2fd3efe963b395/classes.dex
+base.1=/Users/wanggang/Desktop/MyApplication/scrollViewTest/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_381d9622b17484bb9b32ec8d2b2fd3efe963b395
+file.0=/Users/wanggang/Desktop/MyApplication/scrollViewTest/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_933ba6ea1ed456fc99e64bed0d7256a26647222b/classes.dex

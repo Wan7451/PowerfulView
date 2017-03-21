@@ -1,0 +1,4 @@
+#Thu Mar 09 20:55:22 CST 2017
+base.0=/Users/wanggang/Desktop/MyApplication/scrollViewTest/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_fff3e0fa5ff3af5abeddef5a444106b4bfdde5f5
+renamed.0=classes.dex
+file.0=/Users/wanggang/Desktop/MyApplication/scrollViewTest/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_fff3e0fa5ff3af5abeddef5a444106b4bfdde5f5/classes.dex

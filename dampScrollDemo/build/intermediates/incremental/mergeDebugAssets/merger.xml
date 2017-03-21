@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/Users/wanggang/.android/build-cache/71a574cb977f48cf50c647c37c9234309fc6f9ca/output/assets"/></dataSet><dataSet config="main"><source path="/Users/wanggang/Desktop/MyApplication/dampScrollDemo/src/main/assets"/><source path="/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/wanggang/Desktop/MyApplication/dampScrollDemo/src/debug/assets"/></dataSet></merger>
