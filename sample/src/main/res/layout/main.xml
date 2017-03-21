@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="300dp" />
+
+
+    <com.wan7451.powerfulview.scroll.ZoomScrollView
+        android:id="@+id/personalScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:orientation="vertical" >
+
+
+            <TableLayout
+                android:layout_marginTop="300dp"
+                android:id="@+id/tl_main"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#9FFF" >
+            </TableLayout>
+        </LinearLayout>
+    </com.wan7451.powerfulview.scroll.ZoomScrollView>
+
+</RelativeLayout>

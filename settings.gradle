@@ -1,4 +1,1 @@
-include ':app'
-include ':scrollViewDemo'
-include ':dampScrollDemo'
-include ':scrollViewTest'
+include ':powerfulview',":sample"

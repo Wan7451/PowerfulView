@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:11:22-77
+application
+ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:13:5-27:19
+MERGED from [PowerfulView:powerfulview:unspecified] /Users/wanggang/Documents/CODE/PowerfulView/powerfulview/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/wanggang/.android/build-cache/3f60e40dbfd626886cd3a64c7f8c24ecee3f3b2f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/wanggang/.android/build-cache/87b9227fa94bc097da75ec2aa44b1119d958db82/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/wanggang/.android/build-cache/9f683214bec9bc78e91bd187aaf137fa01c5d396/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/wanggang/.android/build-cache/bf86a441f597968d244f5425d8b6472a5f49e13e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/wanggang/.android/build-cache/8b2b55a18e5aa27bc77725c91e0afd88af2b3d4a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/wanggang/.android/build-cache/a3226ba04641918d9be2056fc40f43e4b12773fa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/wanggang/.android/build-cache/3bc12b3082ff4816b21cd203adf73bdcce90c16c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/wanggang/.android/build-cache/bdcfd9582a632494d6f846e794ddbe6490385317/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/wanggang/.android/build-cache/7f6d7b0040c139fb5e7dbef8896e7898eef12056/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from [PowerfulView:powerfulview:unspecified] /Users/wanggang/Documents/CODE/PowerfulView/powerfulview/build/intermediates/bundles/default/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.scrollviewdemo.MainActivity
+ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:19:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.youth.banner:banner:1.4.9] /Users/wanggang/.android/build-cache/37fd85d82a63f109352610678b452878424a3c09/output/AndroidManifest.xml:7:5-9:41
+MERGED from [PowerfulView:powerfulview:unspecified] /Users/wanggang/Documents/CODE/PowerfulView/powerfulview/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/wanggang/.android/build-cache/3f60e40dbfd626886cd3a64c7f8c24ecee3f3b2f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] /Users/wanggang/.android/build-cache/87b9227fa94bc097da75ec2aa44b1119d958db82/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/wanggang/.android/build-cache/9f683214bec9bc78e91bd187aaf137fa01c5d396/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/wanggang/.android/build-cache/bf86a441f597968d244f5425d8b6472a5f49e13e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/wanggang/.android/build-cache/8b2b55a18e5aa27bc77725c91e0afd88af2b3d4a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/wanggang/.android/build-cache/a3226ba04641918d9be2056fc40f43e4b12773fa/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/wanggang/.android/build-cache/3bc12b3082ff4816b21cd203adf73bdcce90c16c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/wanggang/.android/build-cache/bdcfd9582a632494d6f846e794ddbe6490385317/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] /Users/wanggang/.android/build-cache/7f6d7b0040c139fb5e7dbef8896e7898eef12056/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/wanggang/.android/build-cache/3f60e40dbfd626886cd3a64c7f8c24ecee3f3b2f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/wanggang/.android/build-cache/3f60e40dbfd626886cd3a64c7f8c24ecee3f3b2f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/wanggang/.android/build-cache/87b9227fa94bc097da75ec2aa44b1119d958db82/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/wanggang/.android/build-cache/9f683214bec9bc78e91bd187aaf137fa01c5d396/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/wanggang/.android/build-cache/bf86a441f597968d244f5425d8b6472a5f49e13e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/wanggang/.android/build-cache/8b2b55a18e5aa27bc77725c91e0afd88af2b3d4a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/wanggang/.android/build-cache/a3226ba04641918d9be2056fc40f43e4b12773fa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/wanggang/.android/build-cache/3bc12b3082ff4816b21cd203adf73bdcce90c16c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/wanggang/.android/build-cache/bdcfd9582a632494d6f846e794ddbe6490385317/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/wanggang/.android/build-cache/7f6d7b0040c139fb5e7dbef8896e7898eef12056/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/wanggang/.android/build-cache/3f60e40dbfd626886cd3a64c7f8c24ecee3f3b2f/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/wanggang/.android/build-cache/3f60e40dbfd626886cd3a64c7f8c24ecee3f3b2f/output/AndroidManifest.xml:26:9-47

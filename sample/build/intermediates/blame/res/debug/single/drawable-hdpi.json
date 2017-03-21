@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/msg_sendfrom_done_bg_sel.9.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/msg_sendfrom_done_bg_sel.9.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/msg_sendto_done_bg_nor.9.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/msg_sendto_done_bg_nor.9.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/msg_sendfrom_done_bg_nor.9.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/msg_sendfrom_done_bg_nor.9.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/default_user_hole_information.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/default_user_hole_information.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/dog.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/dog.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/line_oblique_user.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/line_oblique_user.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/lyric_desk_line_c.9.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/lyric_desk_line_c.9.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/line_oblique.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/line_oblique.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/line_h.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/line_h.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/line_v.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/line_v.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/default_artist_hole.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/default_artist_hole.png"
+    },
+    {
+        "merged": "/Users/wanggang/Documents/CODE/PowerfulView/sample/build/intermediates/res/merged/debug/drawable-hdpi/default_user_hole.png",
+        "source": "/Users/wanggang/Documents/CODE/PowerfulView/sample/src/main/res/drawable-hdpi/default_user_hole.png"
+    }
+]

@@ -8,10 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/dampScrollDemo" />
-            <option value="$PROJECT_DIR$/scrollViewDemo" />
-            <option value="$PROJECT_DIR$/scrollViewTest" />
+            <option value="$PROJECT_DIR$/powerfulview" />
+            <option value="$PROJECT_DIR$/sample" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

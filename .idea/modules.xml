@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dampScrollDemo/dampScrollDemo.iml" filepath="$PROJECT_DIR$/dampScrollDemo/dampScrollDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/scrollViewDemo/scrollViewDemo.iml" filepath="$PROJECT_DIR$/scrollViewDemo/scrollViewDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/scrollViewTest/scrollViewTest.iml" filepath="$PROJECT_DIR$/scrollViewTest/scrollViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerfulView.iml" filepath="$PROJECT_DIR$/PowerfulView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/powerfulview/powerfulview.iml" filepath="$PROJECT_DIR$/powerfulview/powerfulview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
     </modules>
   </component>
 </project>

@@ -1,7 +1,0 @@
-#Thu Mar 09 21:20:29 CST 2017
-base.0=/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1360cc73f1c7d67c7522348250746fcf56f0b2ba
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a2fd01b40554e8166849d56a390a870ea6e6fcb3/classes.dex
-base.1=/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a2fd01b40554e8166849d56a390a870ea6e6fcb3
-file.0=/Users/wanggang/Desktop/MyApplication/dampScrollDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1360cc73f1c7d67c7522348250746fcf56f0b2ba/classes.dex
